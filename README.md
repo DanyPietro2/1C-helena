@@ -5,3 +5,5 @@
 👩‍🏫 Professora de Pensamento Computacional **Danielly**.
 
 👩‍💻 Estamos estudando sobre Javascript.
+
+![turma](https://media1.tenor.com/m/cHVSSkz2qvUAAAAd/education-students.gif)
